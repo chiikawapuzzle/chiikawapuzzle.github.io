@@ -3,5 +3,45 @@
         "name": "Chiikawa Puzzle",
         "slug": "chiikawa-puzzle",
         "image": "/cache/data/image/game/chiikawa-puzzle/chiikawapuzzlegame-m186x186.webp"
+    },
+    {
+        "name": "Chiikawa Puzzle Game",
+        "slug": "chiikawa-puzzle-game",
+        "image": "/cache/data/image/game/chiikawa-puzzle-game/chiikawa-puzzle-game-online-m186x186.webp"
+    },
+    {
+        "name": "Six Cats Under",
+        "slug": "six-cats-under",
+        "image": "/cache/data/image/game/six-cats-under/six-cats-under-m186x186.webp"
+    },
+    {
+        "name": "Baba Is You",
+        "slug": "baba-is-you",
+        "image": "/cache/data/image/game/baba-is-you/baba-is-you-m186x186.webp"
+    },
+    {
+        "name": "Stardew Valley",
+        "slug": "stardew-valley",
+        "image": "/cache/data/image/game/stardew-valley/stardew-valley-m186x186.webp"
+    },
+    {
+        "name": "FNF VS Chi-kawa",
+        "slug": "fnf-vs-chi-kawa",
+        "image": "/cache/data/image/game/fnf-vs-chi-kawa/fnf-vs-chi-kawa-m186x186.webp"
+    },
+    {
+        "name": "Call Chikawa!",
+        "slug": "call-chikawa",
+        "image": "/cache/data/image/game/call-chikawa/call-chikawa-m186x186.webp"
+    },
+    {
+        "name": "Zoo-ika",
+        "slug": "zoo-ika",
+        "image": "/cache/data/image/game/zoo-ika/zoo-ika-m186x186.webp"
+    },
+    {
+        "name": "Snug",
+        "slug": "snug",
+        "image": "/cache/data/image/game/snug/snug-m186x186.webp"
     }
 ]
